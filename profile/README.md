@@ -7,4 +7,4 @@ Our goal is to answer pressing questions about such agglomeration and breakage p
 
 To achieve this, we emphasize the synergy between theoretical modeling and hands-on experimentation.
 
-![PDHS Group](profile/PDHS.png)
+![PDHS Group](PDHS.png)
